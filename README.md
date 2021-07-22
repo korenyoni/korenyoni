@@ -1,6 +1,6 @@
 # About Me
 
-* 👨‍💻 DevOps Engineer [@cloudposse](https://github.com/cloudposse)
+* 👨‍💻 Senior DevOps Engineer [@cloudposse](https://github.com/cloudposse)
 * 💁 Founder, Consultant: [Cloud Tier A](https://www.cloudtiera.com/) ([@cloudtiera](https://github.com/cloudtiera))
 * 📅 Book a Meeting with me: [calendly.com/cloudtiera](https://calendly.com/cloudtiera)
 
