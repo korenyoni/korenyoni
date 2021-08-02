@@ -1,16 +1,9 @@
-# About Me
-
 ```diff
-  👨‍💻 Senior DevOps Engineer: https://github.com/cloudposse
+@@DevOps Engineer and Consultant@@
+! 👨‍💻 Senior DevOps Engineer: https://github.com/cloudposse
 + 💁 Founder, Consultant: https://www.cloudtiera.com
 - 📅 Book a Meeting with me: https://calendly.com/cloudtiera
 ```
-
-| Tables   |      Are      |
-|----------|---------------|
-| ```diff + hello```|  left-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
 
 # GitHub Stats
 
