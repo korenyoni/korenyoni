@@ -1,10 +1,16 @@
 # About Me
 
 ```diff
-  👨‍💻 Senior DevOps Engineer [@cloudposse](https://github.com/cloudposse)
-+ 💁 Founder, Consultant: [Cloud Tier A](https://www.cloudtiera.com/) ([@cloudtiera](https://github.com/cloudtiera))
-- 📅 Book a Meeting with me: [calendly.com/cloudtiera](https://calendly.com/cloudtiera)
+  👨‍💻 Senior DevOps Engineer: https://github.com/cloudposse
++ 💁 Founder, Consultant: https://www.cloudtiera.com
+- 📅 Book a Meeting with me: https://calendly.com/cloudtiera
 ```
+
+| Tables   |      Are      |
+|----------|---------------|
+| ```diff + hello```|  left-aligned |
+| col 2 is |    centered   |
+| col 3 is | right-aligned |
 
 # GitHub Stats
 
