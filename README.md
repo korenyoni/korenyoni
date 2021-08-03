@@ -1,7 +1,7 @@
 ```diff
 @@ Cloud Engineer @@
 ! 👨‍💻 Senior DevOps Engineer: https://github.com/cloudposse
-+ 💁 Founder, Consultant: https://www.cloudtiera.com
++ 💁 Founder, Consultant: https://cloudtiera.com
 - 😴 Regular In-house Engineer @nowhere
 # 📅 Book a Meeting with me: https://calendly.com/cloudtiera
 ```
